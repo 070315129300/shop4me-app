@@ -1,0 +1,143 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1757px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Poppins;
+  font-weight: 700;
+  line-height: 52.8px;
+  margin: 60px 298px 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  font-family: Poppins;
+  font-size: 1.875rem;
+  margin: 50px 935px 0 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  font-family: Poppins;
+  line-height: 1.4;
+  font-size: 1.875rem;
+  margin: 49px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 705px;
+  height: 815px;
+  margin: 30px auto 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1758px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 198px;
+    margin-right: 198px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 735px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 816px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1661px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 88px;
+    margin-right: 88px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.5rem;
+    margin-right: 515px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.5rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-bottom: 59px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1334px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+    margin-right: 335px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 1.25rem;
+    width: auto;
+    margin-top: 27px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 625px;
+    margin-top: 52px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1145px;
+  }
+
+  .u-section-1 .u-text-1 {
+    line-height: 1.4;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 135px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 394px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 267px;
+}
+
+.u-section-2 .u-btn-1 {
+  border-style: none;
+  font-size: 1.25rem;
+  font-weight: 700;
+  font-family: Poppins;
+  background-image: none;
+  margin: 60px auto;
+  padding: 26px 161px 27px 160px;
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-btn-1 {
+    margin-top: 91px;
+    margin-left: 0;
+    margin-right: 0;
+    padding: 16px 93px 17px;
+  }
+}
